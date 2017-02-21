@@ -1,0 +1,9 @@
+main: me.Harrison.Myril.main
+name: Permissions
+author: Harrison
+version: 1.0
+
+commands:
+  togglecommand:
+    aliases: [tc]
+    description: togglecommand
